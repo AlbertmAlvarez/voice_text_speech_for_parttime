@@ -6,4 +6,4 @@ This page automatically redirects to voice.php
 
 ## Manual Redirect
 
-If you are not automatically redirected, [click here to go to voice.php](voice.php)
+If you are not automatically redirected, [click here to go to voice.php](voice.html)
