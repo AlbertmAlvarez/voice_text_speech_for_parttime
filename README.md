@@ -2,7 +2,7 @@
 
 This page automatically redirects to voice.php
 
-<meta http-equiv="refresh" content="0; url=voice.php">
+<meta http-equiv="refresh" content="0; url=voice.html">
 
 ## Manual Redirect
 
