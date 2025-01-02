@@ -1,6 +1,6 @@
 # Project Title
 
-This page automatically redirects to voice.php
+This page automatically redirects to voice.html
 
 <meta http-equiv="refresh" content="0; url=voice.html">
 
